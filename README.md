@@ -31,6 +31,8 @@ Open our example [Colab](https://colab.research.google.com/github/google-researc
 
 This method doesn't support game rendering on screen - if you want to see the game running, please use the method below.
 
+#Danke
+
 ### Using Docker
 
 This is the recommended way for Linux-based systems to avoid incompatible package versions.
